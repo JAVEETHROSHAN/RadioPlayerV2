@@ -1,6 +1,6 @@
 """
 RadioPlayerV2, Telegram Voice Chat Bot
-Copyright (C) 2021  Asm Safone
+Copyright (C) 2021 @TWTXBOT
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -20,8 +20,8 @@ from pyrogram import Client, filters, emoji
 from pyrogram.types import Message
 from utils.vc import mp, RADIO
 from config import Config
-STREAM_URL=Config.STREAM_URL
-ADMINS=Config.ADMINS
+<STREAM_URL>=Config.STREAM_URL
+<ADMINS>=Config.ADMINS
 
 @Client.on_message(filters.command("radio") & filters.user(ADMINS))
 async def radio(client, message: Message):
