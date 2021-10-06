@@ -1,6 +1,6 @@
 """
 RadioPlayerV2, Telegram Voice Chat Bot
-Copyright (C) 2021  Asm Safone <https://t.me/AsmSafone>
+Copyright (C) 2021  TMT X Bots<https://t.me/HOLLYWOODTOON>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -25,9 +25,9 @@ from utils.vc import mp
 import asyncio
 
 
-CHAT=Config.CHAT
+<CHAT>=Config.CHAT
 
-bot = Client(
+<bot> = Client(
     "RadioPlayer",
     Config.API_ID,
     Config.API_HASH,
@@ -48,7 +48,7 @@ bot.run(main())
 bot.start()
 @bot.on_message(filters.command("restart") & filters.user(Config.ADMINS))
 def restart(client, message):
-    message.reply_text("🔄 **Restarting... Join @AsmSafone!**")
+    message.reply_text("🔄 **Restarting... Join @HOLLYWOODTOON!**")
     Thread(
         target=stop_and_restart
         ).start()
