@@ -15,7 +15,7 @@
 An Telegram Bot to Play Nonstop Radio/Music in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [TMT X BOT](https://t.me/TWTXBOT) Channel & Music in [SafoTheBot](https://t.me/safothebot) Group.
+Radio in [TMT X BOT](https://t.me/TWTXBOT) Channel & Music in [TMTxBoT](https://t.me/TWTXBOT) Group.
 
 ## Special Features
 
@@ -35,7 +35,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 1. `API_ID` : Get it from my.telegram.org
 2. `API_HASH` : Get it from my.telegram.org
 3. `BOT_TOKEN` : Get it from @Botfather
-4. `SESSION_STRING` : Generate it from [@genStr robot](http://t.me/genStr_robot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://repl.it/@AsmSafone/genStr)
+4. `SESSION_STRING` : Generate it from [@genStr robot](http://t.me/genStr_robot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)](https://repl.it/@TWTXBOT/genStr)
 5. `CHAT` : ID of Channel/Group where the bot plays Music/Radio.
 6. `LOG_GROUP` : Group to send Playlist, if CHAT is a Group.
 7. `ADMINS` : ID of users who can use admin commands.
@@ -62,7 +62,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 ## Run On VPS (The Hard Way)
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayerV2
+$ git clone https://github.com/JaveethRoshan/RadioPlayerV2
 $ cd RadioPlayerV2
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
