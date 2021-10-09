@@ -15,7 +15,7 @@
 An Telegram Bot to Play Nonstop Radio/Music in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](https://t.me/safothebot) Group.
+Radio in [TMT X BOT](https://t.me/TWTXBOT) Channel & Music in [SafoTheBot](https://t.me/safothebot) Group.
 
 ## Special Features
 
@@ -77,7 +77,7 @@ $ python3 main.py
 ## License
 ```sh
 RadioPlayerV2, Telegram Voice Chat Bot
-Copyright (C) 2021  Asm Safone <https://t.me/AsmSafone>
+Copyright (C) 2021 TWT X BOT<https://t.me/TWTXBOT>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
