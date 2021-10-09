@@ -57,11 +57,11 @@ __(Join @TWTXBOT For Support)__
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('CHANNEL', url ='https://t.me/TWTXBOT),
-        InlineKeyboardButton('SUPPORT', url='https://t.me/HOLLYWOODTOON'),
+        InlineKeyboardButton('⚔️CHANNEL⚔️', url ='https://t.me/TWTXBOT),
+        InlineKeyboardButton('❤SUPPORT❤', url='https://t.me/HOLLYWOODTOON'),
     ],
     [
-        InlineKeyboardButton('MORE BOTS', url='https://t.me/TWTXBOT ,
+        InlineKeyboardButton('🙏MORE BOTS🙏', url='https://t.me/TWTXBOT ,
       
     ],
     [
