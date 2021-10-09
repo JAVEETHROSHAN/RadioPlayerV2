@@ -1,15 +1,15 @@
 # Telegram Radio Player V2
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV2?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV2?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV2)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/RadioPlayerV2)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/RadioPlayerV2)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/RadioPlayerV2)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/RadioPlayerV2?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV2?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV2)
-![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
-[![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/safothebot)
+![GitHub Repo stars](https://img.shields.io/github/stars/JaveethRoshan/RadioPlayerV2?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/JaveethRoshan/RadioPlayerV2?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/JaveethRoshan/RadioPlayerV2)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/JaveethRoshan/RadioPlayerV2)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/JaveethRoshan/RadioPlayerV2)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/JaveethRoshan/RadioPlayerV2)
+![GitHub contributors](https://img.shields.io/github/contributors/JaveethRoshan/RadioPlayerV2?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/JaveethRoshan/RadioPlayerV2?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JaveethRoshan/RadioPlayerV2)
+![GitHub](https://img.shields.io/github/license/JaveethRosham/RadioPlayerV2)
+[![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/TWTXBOT)
 
 
 An Telegram Bot to Play Nonstop Radio/Music in Channel or Group Voice Chats.
@@ -28,7 +28,7 @@ Radio in [TMT X BOT](https://t.me/TWTXBOT) Channel & Music in [TMTxBoT](https://
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/JaveethRoshan/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/JaveethRoshan/RadioPlayerV2"> <img src="https://the-badge&logo=heroku" width="200""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
