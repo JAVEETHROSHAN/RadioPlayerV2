@@ -28,7 +28,7 @@ Radio in [TMT X BOT](https://t.me/TWTXBOT) Channel & Music in [TMTxBoT](https://
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/JaveethRoshan/RadioPlayerV2"> <img src="https:/https://t.me/ToonzStarsTamil/1227/the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/JaveethRoshan/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
@@ -92,9 +92,5 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
-## Credits
-
-- [Asm Safone](https://github.com/AsmSafone) [Dev]
-- [Dash Eclipse](https://github.com/dashezup) [Dev]
-- [Il'ya](https://github.com/MarshalX) [For tgcalls]
-- [Subin](https://github.com/subinps) [For bot support]
+#credits
+@HOLLYWOODTOON
