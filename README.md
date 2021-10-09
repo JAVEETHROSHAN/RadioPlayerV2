@@ -28,7 +28,7 @@ Radio in [TMT X BOT](https://t.me/TWTXBOT) Channel & Music in [TMTxBoT](https://
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/JaveethRoshan/RadioPlayerV2"> <img src="https://the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/JaveethRoshan/RadioPlayerV2"> <img src="https:/https://t.me/ToonzStarsTamil/1227/the-badge&logo=heroku" width="200""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
